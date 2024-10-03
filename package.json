@@ -6,6 +6,7 @@
   "scripts": {
     "start": "node index.js",
     "bonjour": "node bonjour.js",
+    "opinionPoll": "node opinionPoll.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
