@@ -1,12 +1,13 @@
 function opinionPoll() {
-    console.log("Bonjour from opinionPoll.js")
+    console.log("Bonjour from opinionPoll.js!")
 }
 
 function hobby() {
-    console.log("Having a hobby is important for having peace of mind.")
+    console.log("")
 }
 
 function programming() {
-    console.log("Keep at it!")
+    console.log("")
 }
+
 export { opinionPoll, hobby, programming };

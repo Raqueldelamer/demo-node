@@ -7,6 +7,7 @@
     "start": "node index.js",
     "bonjour": "node bonjour.js",
     "opinionPoll": "node opinionPoll.js",
+    "checkbox": "node checkbox.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",

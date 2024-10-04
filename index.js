@@ -1,5 +1,4 @@
 import { input } from '@inquirer/prompts';
-
 import { bonjour } from './bonjour.js';
 bonjour();
 
