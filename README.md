@@ -8,4 +8,5 @@
 After npm installation, code the following in a js file => import { checkbox } from '@inquirer/prompts'
 
 <h1>NOTE:</h1>
-node index.js & node checkbox.js demonstrate my completed assignments.
+node index.js & node checkbox.js demonstrate my completed assignments, which ask personalized questions, open ended questions (index.js) 
+and a multiple choice prompted question (checkbox.js).
